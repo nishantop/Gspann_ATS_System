@@ -10,3 +10,4 @@ pdf2image
 youtube_transcript_api
 pathlib
 nltk==3.6.2  # or the appropriate version
+scikit-learn==1.7
