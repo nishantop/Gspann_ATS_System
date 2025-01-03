@@ -9,3 +9,4 @@ langchain_google_genai
 pdf2image
 youtube_transcript_api
 pathlib
+nltk==3.6.2  # or the appropriate version
